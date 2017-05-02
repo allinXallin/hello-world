@@ -1,2 +1,5 @@
 # hello-world
-OMG
+
+
+hi boys！
+Iam you father！
